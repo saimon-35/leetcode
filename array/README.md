@@ -9,9 +9,9 @@ Each solution file includes the problem link at the top for quick reference.
 
 | # | LeetCode No. | Problem Name | Problem Link | Solution |
 |---|-------------|--------------|--------------|----------|
-| 1 | 26 | Remove Duplicates from Sorted Array | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](remove_duplicates_from_sorted_array.cpp) |
-| 2 | 27 | Remove Element | [LeetCode](https://leetcode.com/problems/remove-element/) | [C++](remove_element.cpp) |
-| 3 | 1470 | Shuffle the Array | [LeetCode](https://leetcode.com/problems/shuffle-the-array/) | [C++](shuffle_the_array.cpp) |
+| 1 | 26 | Remove Duplicates from Sorted Array | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](Remove_Duplicates_from_Sorted_Array.cpp) |
+| 2 | 27 | Remove Element | [LeetCode](https://leetcode.com/problems/remove-element/) | [C++](Remove_Element.cpp) |
+| 3 | 1470 | Shuffle the Array | [LeetCode](https://leetcode.com/problems/shuffle-the-array/) | [C++](Shuffle_the_Array.cpp) |
 
 ---
 
