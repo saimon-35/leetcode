@@ -15,6 +15,7 @@ Each solution file includes the problem link at the top for quick reference.
 | 4 | 1929 | Concatenation of Array | [LeetCode](https://leetcode.com/problems/concatenation-of-array/description/) | [C++](Concatenation_of_Array.cpp) |
 | 5 | 206 | Reverse Linked List | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | [C++](Reverse_Linked_List.cpp) |
 | 6 | 206 | Reverse Linked List with recursion| [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | [C++](Reverse_Linked_List_recursion.cpp) |
+| 7 | 21 | Merge Two Sorted Lists | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](Merge_Two_Sorted_Lists.cpp) |
 
 ---
 
