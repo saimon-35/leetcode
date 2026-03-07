@@ -1,6 +1,6 @@
 # Binary Tree Problems (LeetCode)
 
-This folder contains solutions to **Binary Tree Problems**.
+This folder contains solutions to **Binary Tree / Binary Search Tree Problems**.
 
 ---
 
@@ -8,16 +8,15 @@ This folder contains solutions to **Binary Tree Problems**.
 
 | # | LeetCode No. | Problem Name | Problem Link | Solution |
 |---|-------------|--------------|--------------|----------|
-| 1 | 94 | Binary Tree Inorder Traversal | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C#](Binary_Tree_Inorder_Traversal.cs) |
-| 2 | 144 | Binary Tree Preorder Traversal | [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [C#](Binary_Tree_Preorder_Traversal.cs) |
-| 3 | 145 | Binary Tree Postorder Traversal | [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [C#](Binary_Tree_Postorder_Traversal.cs) |
-| 4 | 102 | Binary Tree Level Order Traversal | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C#](Binary_Tree_Level_Order_Traversal.cs) |
-| 5 | 104 | Maximum Depth of Binary Tree | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [C#](Maximum_Depth_of_Binary_Tree.cs) |
-| 6 | 226 | Invert Binary Tree | [LeetCode](https://leetcode.com/problems/invert-binary-tree/description/) | [C#](Invert_Binary_Tree.cs) |
-| 7 | 543 | Diameter of Binary Tree | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [C#](Diameter_of_Binary_Tree.cs) |
-| 8 | 100 | Same Tree | [LeetCode](https://leetcode.com/problems/same-tree/description/) | [C#](Same_Tree.cs) |
-| 9 | 572 | Subtree of Another Tree | [LeetCode](https://leetcode.com/problems/subtree-of-another-tree/description/) | [C#](Subtree_of_Another_Tree.cs) |
-| 10 | 110 | Balanced Binary Tree | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/description/) | [C#](Balanced_Binary_Tree.cs) |
+| 1 | 700 | Search in a Binary Search Tree | [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [C#](Search_in_a_Binary_Search_Tree.cs) |
+| 2 | 235 | Lowest Common Ancestor of a Binary Search Tree | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C#](Lowest_Common_Ancestor_of_a_BST.cs) |
+| 3 | 701 | Insert into a Binary Search Tree | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [C#](Insert_into_a_BST.cs) |
+| 4 | 450 | Delete Node in a BST | [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/) | [C#](Delete_Node_in_a_BST.cs) |
+| 5 | 94 | Binary Tree Inorder Traversal | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C#](Binary_Tree_Inorder_Traversal.cs) |
+| 6 | 230 | Kth Smallest Element in a BST | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C#](Kth_Smallest_Element_in_BST.cs) |
+| 7 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | [LeetCode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C#](Construct_Binary_Tree_from_Preorder_and_Inorder.cs) |
+| 8 | 102 | Binary Tree Level Order Traversal | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C#](Binary_Tree_Level_Order_Traversal.cs) |
+| 9 | 199 | Binary Tree Right Side View | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/) | [C#](Binary_Tree_Right_Side_View.cs) |
 
 ---
 
